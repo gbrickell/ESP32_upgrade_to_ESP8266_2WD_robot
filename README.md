@@ -4,7 +4,7 @@
 
 This project is documented in more detail [here](https://onlinedevices.org.uk/ESP32_upgrade_to_ESP8266_2WD_Robot) and the images below show the overall build in various stages:
 
-<img src="images\ESP32adapt_PCB03_20210310_111946210_900w.jpg" width="288" height="250"> &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_20210310_112217977.PORTRAIT_900w.jpg" width="320" height="250">  &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_20210310_112425991_900w.jpg" width="226" height="250">
+<img src="images\ESP32adapt_PCB03_20210310_111946210_900w.jpg" width="207" height="180"> &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_20210310_112217977.PORTRAIT_900w.jpg" width="230" height="180">  &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_20210310_112425991_900w.jpg" width="162" height="180">
 
 Details of the custom PCB are show in the images below, and the design files can be downloaded from the PCB_design_files folder.
 
