@@ -6,7 +6,7 @@ This project is documented in more detail [here](https://onlinedevices.org.uk/ES
 
 <img src="images\ESP32adapt_PCB03_20210310_111946210_900w.jpg" width="207" height="180"> &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_20210310_112217977.PORTRAIT_900w.jpg" width="230" height="180">  &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_20210310_112425991_900w.jpg" width="162" height="180">
 
-Details of the custom PCB are show in the images below, and the design files can be downloaded from the PCB_design_files folder.
+Details of the custom PCB are show in the images below, and the KiCAD design as gerber files can be downloaded from the 'PCB_design_files' folder.
 
 <img src="images\ESP32adapt_PCB03_annotated_900w.jpg" width="276" height="250"> &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_front_600w.jpg" width="162" height="250">  &nbsp; &nbsp; <img src="images\ESP32adapt_PCB03_back2_600w.jpg" width="166" height="250">
 
